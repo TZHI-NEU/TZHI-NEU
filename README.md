@@ -1,4 +1,6 @@
 ### Hi there 👋
+This is TIANZHI WANG FROM NORTHEASTERN
+I AM IN CYBERSECURITY MAJOR
 
 <!--
 **TZHI-NEU/TZHI-NEU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
